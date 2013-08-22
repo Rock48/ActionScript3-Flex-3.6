@@ -6,6 +6,8 @@ bin-release/
 # Other files and folders
 .settings/
 
+.metadata/
+
 configuration.xml
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
